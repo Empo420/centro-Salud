@@ -21,8 +21,8 @@
     <section class="text-center text-white inicio">
             <div class="jumbotron bg-jumbotron">
                 <div class="container">
-                    <h1 class="display-4"><strong>Centro medico senasoft</strong></h1>
-                    <p class="lead mt-5 texto"><small>atenderemos tus enfermedades fisicas y mentaesles <br> con gusto te ayudaremos</small></p>
+                <h1 class="display-4"><strong>Centro medico <font style="color: rgba(255,103,27);">sena</font><font style="color: rgba(0,0,171);">soft</font></strong></h1>
+                    <p class="lead mt-5 texto"><small>atenderemos tus enfermedades fisicas y mentales <br> con gusto te ayudaremos</small></p>
                 </div>
             </div>
         </section>

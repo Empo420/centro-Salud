@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+}
+
+
+.padre-botones{
+    display: flex;
+    justify-content: center;
+
+}
+
+.boton{
+    margin-right: 15px;
+}
